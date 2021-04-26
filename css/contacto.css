@@ -1,0 +1,32 @@
+span {
+	color: rgb(255, 0, 0);
+	margin: 0;
+	padding: 0;
+}
+
+.error {
+	opacity: 0;
+	color: rgb(255, 0, 0);
+}
+
+.form {
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+.button-enviar {
+	border: solid 2px #9c004e;
+	background-color: #fff;
+	border-radius: 10px;
+	color: #9c004e;
+}
+
+.button-enviar:hover {
+	background-color: #9c004e;
+	color: #fff;
+}
+
+textarea {
+	resize: none;
+}
